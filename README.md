@@ -1,5 +1,3 @@
 # Final-Project---3162
 
-Introduction 
-
 Many businesses spend large amounts of money on advertising, but it’s not always clear which type of advertising actually helps increase sales. This creates a challenge: how can companies know if their money is being spent effectively? To address this problem, our project aims to find out how different types of advertising—TV, radio, social media, and influencers—affect sales. We use a dataset from Kaggle and apply regression to better understand which advertising channels have the strongest impact. This can help businesses make smarter decisions about where to invest their marketing budgets.
